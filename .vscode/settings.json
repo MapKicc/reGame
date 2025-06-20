@@ -1,0 +1,14 @@
+{
+  "java.project.sourcePaths": [
+    ".",
+    "src",
+    "src/Main Menu",
+    "src/Game",
+    "src/Managers"
+  ],
+  "java.project.referencedLibraries": [
+    "libs/**/*.jar"
+  ],
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.runtimes": [],
+}
