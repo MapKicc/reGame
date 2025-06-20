@@ -18,7 +18,7 @@ public class Game {
     public static int phase1Items = 10;
     public static int phase2Items = 15;
     public static int phase3Items = 20;
-    public static int phase1Time = 5;
+    public static int phase1Time = 240;
     public static int phase2Time = 180;
     public static int phase3Time = 120;
 

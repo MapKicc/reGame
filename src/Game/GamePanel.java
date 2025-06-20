@@ -126,7 +126,7 @@ public class GamePanel extends JPanel implements KeyListener, MouseListener, Mou
         WORLD_WIDTH = Scale.scale(5000);
         WORLD_HEIGHT = Scale.scale(5000);
         // Set sprite speed
-        spriteSpeed = Scale.scale(25);
+        spriteSpeed = Scale.scale(3);
         // Reset score
         Game.score = 0;
 
